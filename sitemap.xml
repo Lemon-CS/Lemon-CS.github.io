@@ -380,6 +380,15 @@
   </url>
   
   <url>
+    <loc>https://lemon-cs.github.io/2020/07/23/MyBatis%E4%B9%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    
+    <lastmod>2021-12-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lemon-cs.github.io/categories/index.html</loc>
     
     <lastmod>2021-12-22</lastmod>
