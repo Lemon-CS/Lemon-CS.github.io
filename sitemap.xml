@@ -362,6 +362,15 @@
   </url>
   
   <url>
+    <loc>https://lemon-cs.github.io/2020/07/18/Java%E5%B9%B6%E5%8F%91%E4%B9%8BThreadLocal/</loc>
+    
+    <lastmod>2021-12-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lemon-cs.github.io/2020/07/11/IO%E6%A8%A1%E5%9E%8B%E8%AF%A6%E8%A7%A3/</loc>
     
     <lastmod>2021-12-29</lastmod>
@@ -1229,6 +1238,13 @@
   
   <url>
     <loc>https://lemon-cs.github.io/tags/%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83/</loc>
+    <lastmod>2022-02-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lemon-cs.github.io/tags/%E5%B9%B6%E5%8F%91/</loc>
     <lastmod>2022-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
